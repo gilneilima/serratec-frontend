@@ -1,0 +1,40 @@
+
+.pad {
+    padding: 0;
+    border: 0% 0% 0% 0%;
+}
+
+.margem{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.marge{
+    margin-top: 5% !important;
+}
+
+.marg{
+    margin-right: 0%;
+}
+
+.subli{
+    text-decoration: none;
+}
+
+.fonte{
+    font-family: 'Khand', sans-serif;
+    color: #1117a3;
+}
+
+.fonthead{
+    margin-left: 3rem;
+    font-family: 'Khand', sans-serif;
+    color: #1117a3 !important;
+    font-size: 40px;
+}
+
+.redes-sociais{
+    display: inline;
+    margin-left: 55%;
+    
+}
